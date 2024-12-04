@@ -1,7 +1,7 @@
 .visible-true{
-    @apply opacity-100 transition-all duration-300
+    @apply opacity-100
 }
 
 .visible-false{
-    @apply opacity-0 transition-all duration-300
+    @apply opacity-0
 }
